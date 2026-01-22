@@ -10,6 +10,3 @@ Tech Stack: HTML, CSS, JavaScript
 ● Included sections like About, Skills, Projects, Resume, and Contact, improving personal branding.
 
 ● Deployed the website using GitHub Pages, ensuring public access with a custom domain.
-Expense Tracker Web App 
-
-● Built a Python + Streamlit app with SQLite to record, view, and analyze daily expenses through inte
